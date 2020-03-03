@@ -1,0 +1,26 @@
+{
+  "name": "bdd",
+  "version": "1.0.0",
+  "description": "Behavioral Driven Development with Gherken and Cucumber",
+  "main": "index.js",
+  "dependencies": {
+    "cucumber": "^6.0.5",
+    "gherkin": "^9.0.0",
+    "gherkin-easy": "^1.2.0",
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyayic/BDD.git"
+  },
+  "author": "fanny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyayic/BDD/issues"
+  },
+  "homepage": "https://github.com/Nyayic/BDD#readme"
+}
