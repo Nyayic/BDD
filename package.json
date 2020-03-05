@@ -12,7 +12,7 @@
     "cucumber": "^6.0.5"
   },
   "scripts": {
-    "test": "jest"
+    "test": "cucumber-js"
   },
   "repository": {
     "type": "git",
